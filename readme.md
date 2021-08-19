@@ -1,0 +1,1 @@
+Following automate the boring stuff chapter 3 - had to follow the tutorial line by line but it makes sense. Much better than the version I tried to write
